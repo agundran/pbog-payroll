@@ -1,0 +1,16 @@
+[13-Aug-2018 03:21:07 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'UM8' is invalid in /home/pbogloba/public_html/portal/index.php on line 200
+[13-Aug-2018 03:21:07 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'UM8' is invalid in /home/pbogloba/public_html/portal/index.php on line 200
+[13-Aug-2018 03:21:09 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'UM8' is invalid in /home/pbogloba/public_html/portal/index.php on line 200
+[13-Aug-2018 03:21:10 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'UM8' is invalid in /home/pbogloba/public_html/portal/index.php on line 200
+[13-Aug-2018 03:21:12 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'UM8' is invalid in /home/pbogloba/public_html/portal/index.php on line 200
+[13-Aug-2018 03:21:32 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'GMT+8' is invalid in /home/pbogloba/public_html/portal/index.php on line 200
+[13-Aug-2018 03:21:37 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'GMT+8' is invalid in /home/pbogloba/public_html/portal/index.php on line 200
+[13-Aug-2018 03:21:41 UTC] PHP Notice:  date_default_timezone_set(): Timezone ID 'GMT+8' is invalid in /home/pbogloba/public_html/portal/index.php on line 200
+[13-Aug-2018 03:33:55 GMT] PHP Parse error:  syntax error, unexpected 'anchor_popup' (T_STRING) in /home/pbogloba/public_html/portal/application/controllers/manageuserlist.php on line 103
+[13-Aug-2018 03:33:58 GMT] PHP Parse error:  syntax error, unexpected 'anchor_popup' (T_STRING) in /home/pbogloba/public_html/portal/application/controllers/manageuserlist.php on line 103
+[13-Aug-2018 03:33:59 GMT] PHP Parse error:  syntax error, unexpected 'anchor_popup' (T_STRING) in /home/pbogloba/public_html/portal/application/controllers/manageuserlist.php on line 103
+[13-Aug-2018 03:35:25 GMT] PHP Parse error:  syntax error, unexpected 'anchor_popup' (T_STRING) in /home/pbogloba/public_html/portal/application/controllers/manageuserlist.php on line 103
+[13-Aug-2018 03:35:26 GMT] PHP Parse error:  syntax error, unexpected 'anchor_popup' (T_STRING) in /home/pbogloba/public_html/portal/application/controllers/manageuserlist.php on line 103
+[13-Aug-2018 03:36:07 GMT] PHP Parse error:  syntax error, unexpected ';' in /home/pbogloba/public_html/portal/application/controllers/manageuserlist.php on line 108
+[13-Aug-2018 03:36:11 GMT] PHP Parse error:  syntax error, unexpected ';' in /home/pbogloba/public_html/portal/application/controllers/manageuserlist.php on line 108
+[13-Aug-2018 03:36:12 GMT] PHP Parse error:  syntax error, unexpected ';' in /home/pbogloba/public_html/portal/application/controllers/manageuserlist.php on line 108
